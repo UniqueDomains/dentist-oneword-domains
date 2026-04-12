@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .dentist one-word domains from Uni
 
 **Public extract:** 9,798 rows · **Live catalog:** 9,798 domains
 
-**Last updated:** 2026-04-11  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/dentist`  
 **Best for:** founders, investors, studios
 
@@ -67,22 +67,22 @@ print(df.head())
 | easy.dentist     | available | $76.99    | $94.99        | 128            | 68     | 4      | name.com                                    |
 | awesome.dentist  | resell    | —         | —             | 98             | 44     | 7      | GoDaddy Online Services Cayman Islands Ltd. |
 | converse.dentist | premium   | $250      | $250          | 64             | 73     | 8      | name.com                                    |
-| zero.dentist     | available | $76.99    | $94.99        | 112            | 53     | 4      | name.com                                    |
+| zero.dentist     | available | $76.99    | $94.99        | 112            | 54     | 4      | name.com                                    |
 | tap.dentist      | resell    | —         | —             | 78             | 42     | 3      | GoDaddy.com, LLC                            |
 | power.dentist    | premium   | $260      | $260          | 98             | 62     | 5      | namecheap                                   |
 | fast.dentist     | available | $76.99    | $94.99        | 82             | 53     | 4      | name.com                                    |
 | mall.dentist     | resell    | —         | —             | 100            | 29     | 4      | GoDaddy.com, LLC                            |
 | free.dentist     | premium   | $3,125    | $3,125        | 88             | 59     | 4      | name.com                                    |
-| clear.dentist    | available | $76.99    | $94.99        | 90             | 50     | 5      | name.com                                    |
+| clear.dentist    | available | $76.99    | $94.99        | 90             | 49     | 5      | name.com                                    |
 | teeth.dentist    | resell    | —         | —             | 62             | 14     | 5      | GoDaddy.com, LLC                            |
 | ace.dentist      | premium   | $123.75   | $123.75       | 88             | 57     | 3      | name.com                                    |
 | real.dentist     | available | $81.98    | —             | 78             | 49     | 4      | namecheap                                   |
-| data.dentist     | premium   | $260      | $260          | 70             | 56     | 4      | namecheap                                   |
-| genius.dentist   | available | $76.99    | $94.99        | 98             | 47     | 6      | name.com                                    |
-| live.dentist     | premium   | $250      | $250          | 108            | 55     | 4      | name.com                                    |
-| wizard.dentist   | available | $76.99    | $94.99        | 118            | 46     | 6      | name.com                                    |
-| business.dentist | premium   | $260      | $260          | 100            | 53     | 8      | namecheap                                   |
+| live.dentist     | premium   | $250      | $250          | 108            | 56     | 4      | name.com                                    |
 | snap.dentist     | available | $76.99    | $94.99        | 90             | 46     | 4      | name.com                                    |
+| data.dentist     | premium   | $260      | $260          | 70             | 56     | 4      | namecheap                                   |
+| genius.dentist   | available | $76.99    | $94.99        | 98             | 45     | 6      | name.com                                    |
+| business.dentist | premium   | $260      | $260          | 100            | 53     | 8      | namecheap                                   |
+| creative.dentist | available | $76.99    | $94.99        | 92             | 45     | 8      | name.com                                    |
 | art.dentist      | premium   | $520      | $520          | 90             | 52     | 3      | namecheap                                   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DENTIST One-Word Domains*. Version 2026-04-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DENTIST One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
