@@ -67,7 +67,7 @@ print(df.head())
 | easy.dentist     | available | $76.99    | $94.99        | 128            | 68     | 4      | name.com                                    |
 | awesome.dentist  | resell    | —         | —             | 98             | 44     | 7      | GoDaddy Online Services Cayman Islands Ltd. |
 | converse.dentist | premium   | $250      | $250          | 64             | 73     | 8      | name.com                                    |
-| zero.dentist     | available | $76.99    | $94.99        | 112            | 54     | 4      | name.com                                    |
+| zero.dentist     | available | $76.99    | $94.99        | 112            | 53     | 4      | name.com                                    |
 | tap.dentist      | resell    | —         | —             | 78             | 42     | 3      | GoDaddy.com, LLC                            |
 | power.dentist    | premium   | $260      | $260          | 98             | 62     | 5      | namecheap                                   |
 | fast.dentist     | available | $76.99    | $94.99        | 82             | 53     | 4      | name.com                                    |
