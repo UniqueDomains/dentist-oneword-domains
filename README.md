@@ -70,12 +70,12 @@ print(df.head())
 | zero.dentist     | available | $76.99    | $94.99        | 112            | 53     | 4      | name.com                                    |
 | tap.dentist      | resell    | —         | —             | 78             | 42     | 3      | GoDaddy.com, LLC                            |
 | power.dentist    | premium   | $260      | $260          | 98             | 62     | 5      | namecheap                                   |
-| fast.dentist     | available | $76.99    | $94.99        | 82             | 53     | 4      | name.com                                    |
+| fast.dentist     | available | $76.99    | $94.99        | 82             | 52     | 4      | name.com                                    |
 | mall.dentist     | resell    | —         | —             | 100            | 29     | 4      | GoDaddy.com, LLC                            |
-| free.dentist     | premium   | $3,125    | $3,125        | 88             | 59     | 4      | name.com                                    |
+| ace.dentist      | premium   | $123.75   | $123.75       | 88             | 57     | 3      | name.com                                    |
 | clear.dentist    | available | $76.99    | $94.99        | 90             | 49     | 5      | name.com                                    |
 | teeth.dentist    | resell    | —         | —             | 62             | 14     | 5      | GoDaddy.com, LLC                            |
-| ace.dentist      | premium   | $123.75   | $123.75       | 88             | 57     | 3      | name.com                                    |
+| free.dentist     | premium   | $3,125    | $3,125        | 88             | 57     | 4      | name.com                                    |
 | real.dentist     | available | $81.98    | —             | 78             | 49     | 4      | namecheap                                   |
 | live.dentist     | premium   | $250      | $250          | 108            | 56     | 4      | name.com                                    |
 | snap.dentist     | available | $76.99    | $94.99        | 90             | 46     | 4      | name.com                                    |
