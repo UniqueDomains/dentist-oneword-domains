@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .dentist one-word domains from Uni
 
 **Public extract:** 9,798 rows · **Live catalog:** 9,798 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-14  
 **Canonical page:** `https://unique.domains/domains/tld/dentist`  
 **Best for:** founders, investors, studios
 
@@ -76,7 +76,7 @@ print(df.head())
 | clear.dentist    | available | $76.99    | $94.99        | 90             | 49     | 5      | name.com                                    |
 | teeth.dentist    | resell    | —         | —             | 62             | 14     | 5      | GoDaddy.com, LLC                            |
 | free.dentist     | premium   | $3,125    | $3,125        | 88             | 57     | 4      | name.com                                    |
-| real.dentist     | available | $81.98    | —             | 78             | 49     | 4      | namecheap                                   |
+| real.dentist     | available | $81.98    | —             | 78             | 48     | 4      | namecheap                                   |
 | live.dentist     | premium   | $250      | $250          | 108            | 56     | 4      | name.com                                    |
 | snap.dentist     | available | $76.99    | $94.99        | 90             | 46     | 4      | name.com                                    |
 | data.dentist     | premium   | $260      | $260          | 70             | 56     | 4      | namecheap                                   |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DENTIST One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DENTIST One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
