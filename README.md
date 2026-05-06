@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .dentist one-word domains f
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,775 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,775 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,775 domains · **Median ask:** $101.30 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/dentist`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| agents.dentist    | available | $76.99    | —             | 56             | 50     | 6      | name.com  |
-| Books.dentist     | premium   | $560      | $560          | 52             | 49     | 5      | namecheap |
-| coins.dentist     | available | $76.99    | —             | 56             | 41     | 5      | name.com  |
-| jobs.dentist      | premium   | $500      | —             | 79             | 42     | 4      | name.com  |
-| matcha.dentist    | available | $76.99    | —             | 86             | 39     | 6      | name.com  |
-| Cats.dentist      | premium   | $280      | $280          | 59             | 33     | 4      | namecheap |
-| whynot.dentist    | available | $76.99    | —             | 74             | 39     | 7      | name.com  |
-| payments.dentist  | premium   | $500      | —             | 58             | 33     | 8      | name.com  |
-| tokens.dentist    | available | $65.99    | $65.99        | 51             | 36     | 6      | namesilo  |
-| partners.dentist  | premium   | $3,125    | —             | 61             | 32     | 8      | name.com  |
-| tickets.dentist   | available | $65.99    | $65.99        | 64             | 34     | 7      | namesilo  |
-| trends.dentist    | premium   | $250      | —             | 60             | 32     | 6      | name.com  |
-| spectra.dentist   | available | $76.99    | —             | 62             | 34     | 7      | name.com  |
-| William.dentist   | premium   | $280      | $280          | 74             | 31     | 7      | namecheap |
-| maps.dentist      | available | $76.99    | —             | 56             | 31     | 4      | name.com  |
-| solutions.dentist | premium   | $250      | —             | 56             | 31     | 9      | name.com  |
-| rewards.dentist   | available | $65.99    | $65.99        | 62             | 30     | 7      | namesilo  |
-| dogs.dentist      | premium   | $250      | —             | 76             | 28     | 4      | name.com  |
-| blocks.dentist    | available | $76.99    | —             | 53             | 29     | 6      | name.com  |
-| photos.dentist    | premium   | $500      | —             | 54             | 28     | 6      | name.com  |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| tips.dentist     | available | $76.99    | —             | 80             | 26     | 4      | name.com  |
+| Acup.dentist     | available | $81.98    | —             | 80             | 5      | 5      | namecheap |
+| Trex.dentist     | available | $81.98    | —             | 80             | 24     | 5      | namecheap |
+| barup.dentist    | available | $76.99    | —             | 82             | 2      | 6      | name.com  |
+| matcha.dentist   | available | $76.99    | —             | 86             | 39     | 6      | name.com  |
+| Apples.dentist   | available | $81.98    | —             | 90             | 16     | 6      | namecheap |
+| playin.dentist   | available | $76.99    | —             | 80             | 10     | 7      | name.com  |
+| QandA.dentist    | available | $81.98    | —             | 80             | 10     | 7      | namecheap |
+| hangon.dentist   | available | $76.99    | —             | 82             | 6      | 7      | name.com  |
+| stirup.dentist   | available | $76.99    | —             | 82             | 3      | 7      | name.com  |
+| agents.dentist   | available | $76.99    | —             | 56             | 50     | 6      | name.com  |
+| Books.dentist    | premium   | $560      | $560          | 52             | 49     | 5      | namecheap |
+| coins.dentist    | available | $76.99    | —             | 56             | 41     | 5      | name.com  |
+| jobs.dentist     | premium   | $500      | —             | 79             | 42     | 4      | name.com  |
+| Cats.dentist     | premium   | $280      | $280          | 59             | 33     | 4      | namecheap |
+| whynot.dentist   | available | $76.99    | —             | 74             | 39     | 7      | name.com  |
+| payments.dentist | premium   | $500      | —             | 58             | 33     | 8      | name.com  |
+| tokens.dentist   | available | $65.99    | $65.99        | 51             | 36     | 6      | namesilo  |
+| partners.dentist | premium   | $3,125    | —             | 61             | 32     | 8      | name.com  |
+| tickets.dentist  | available | $65.99    | $65.99        | 64             | 34     | 7      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,775 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 12,775 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is entirely made up of one-word .dentist domains. That makes it narrow and easy to compare: every name shares the same extension, so the main differences are the word itself, commercial relevance, and price. Some names are descriptive and direct, like tips.dentist, while others are broader or less intuitive, like Trex.dentist or barup.dentist. For founders, the best picks are usually memorable, easy to say, and closely tied to patient trust or practice positioning. For investors, the key is whether the word has clear end-user relevance at a realistic ask, with enough clarity to support resale interest.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- All results use the .dentist extension
+- Median ask across this set is 101.30
+- Favor clear, relevant, easy-to-spell words
+- Avoid weak fit, ambiguity, or obvious trademark risk
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DENTIST One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DENTIST One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
