@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .dentist one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,775 domains · **Median ask:** $101.30 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/dentist`  
 **Best for:** founders, investors, studios
 
@@ -76,10 +76,10 @@ print(df.head())
 | stirup.dentist   | available | $76.99    | —             | 82             | 3      | 7      | name.com  |
 | agents.dentist   | available | $76.99    | —             | 56             | 50     | 6      | name.com  |
 | Books.dentist    | premium   | $560      | $560          | 52             | 49     | 5      | namecheap |
-| coins.dentist    | available | $76.99    | —             | 56             | 41     | 5      | name.com  |
+| whynot.dentist   | available | $76.99    | —             | 74             | 44     | 7      | name.com  |
 | jobs.dentist     | premium   | $500      | —             | 79             | 42     | 4      | name.com  |
+| coins.dentist    | available | $76.99    | —             | 56             | 41     | 5      | name.com  |
 | Cats.dentist     | premium   | $280      | $280          | 59             | 33     | 4      | namecheap |
-| whynot.dentist   | available | $76.99    | —             | 74             | 39     | 7      | name.com  |
 | payments.dentist | premium   | $500      | —             | 58             | 33     | 8      | name.com  |
 | tokens.dentist   | available | $65.99    | $65.99        | 51             | 36     | 6      | namesilo  |
 | partners.dentist | premium   | $3,125    | —             | 61             | 32     | 8      | name.com  |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DENTIST One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DENTIST One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
