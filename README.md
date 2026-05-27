@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .dentist one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,775 domains · **Median ask:** $101.30 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/dentist`  
 **Best for:** founders, investors, studios
 
@@ -82,7 +82,7 @@ print(df.head())
 | Cats.dentist     | premium   | $280      | $280          | 59             | 33     | 4      | namecheap |
 | payments.dentist | premium   | $500      | —             | 58             | 33     | 8      | name.com  |
 | tokens.dentist   | available | $65.99    | $65.99        | 51             | 36     | 6      | namesilo  |
-| partners.dentist | premium   | $3,125    | —             | 61             | 32     | 8      | name.com  |
+| trends.dentist   | premium   | $250      | —             | 60             | 32     | 6      | name.com  |
 | tickets.dentist  | available | $65.99    | $65.99        | 64             | 34     | 7      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DENTIST One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DENTIST One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
