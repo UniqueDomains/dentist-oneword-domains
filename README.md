@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .dentist one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 32,033 domains · **Median ask:** $83.54 · **High-demand under $2,500:** 10
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/dentist`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,9 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
+| feel.dentist    | available | $65.99    | $65.99        | high           | low    | 4      | namesilo                                    |
+| yes.dentist     | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo                                    |
+| count.dentist   | available | $65.99    | $65.99        | high           | low    | 5      | namesilo                                    |
 | ape.dentist     | available | $63.98    | $81.98        | medium         | low    | 3      | namecheap                                   |
 | awesome.dentist | resell    | —         | —             | medium         | low    | 7      | GoDaddy Online Services Cayman Islands Ltd. |
 | air.dentist     | premium   | $512      | $512          | medium         | low    | 3      | namesilo                                    |
@@ -74,16 +77,13 @@ print(df.head())
 | boy.dentist     | available | $76.99    | —             | medium         | low    | 3      | name.com                                    |
 | con.dentist     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                    |
 | bro.dentist     | available | $65.99    | $65.99        | medium         | low    | 3      | namesilo                                    |
-| cut.dentist     | premium   | $123.75   | $123.75       | high           | low    | 3      | name.com                                    |
+| cut.dentist     | premium   | $118.80   | $118.80       | low            | low    | 3      | namesilo                                    |
 | btw.dentist     | available | $65.99    | $65.99        | high           | low    | 3      | namesilo                                    |
 | dna.dentist     | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo                                    |
 | cow.dentist     | available | $65.99    | $65.99        | high           | low    | 3      | namesilo                                    |
 | gag.dentist     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                    |
 | cry.dentist     | available | $76.99    | —             | high           | low    | 3      | name.com                                    |
 | ham.dentist     | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo                                    |
-| cxx.dentist     | available | $63.98    | $81.98        | low            | low    | 3      | namecheap                                   |
-| hat.dentist     | premium   | $118.80   | $118.80       | low            | low    | 3      | namesilo                                    |
-| idk.dentist     | available | $65.99    | $65.99        | medium         | low    | 3      | namesilo                                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DENTIST One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DENTIST One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
